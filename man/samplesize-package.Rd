@@ -13,7 +13,7 @@
 \tabular{ll}{
 Package: \tab samplesize\cr
 Type: \tab Package\cr
-Version: \tab 0.2-0\cr
+Version: \tab 0.2-1\cr
 Date: \tab 2015-06-29\cr
 License: \tab GPL (>=2)\cr
 LazyLoad: \tab yes\cr

@@ -1,7 +1,7 @@
 Package: samplesize
 Type: Package
 Title: Sample size calculation for various t-Tests and Wilcoxon-Test
-Version: 0.2-0
+Version: 0.2-1
 Date: 2015-06-29
 Author: Ralph Scherer
 Maintainer: Ralph Scherer <shearer.ra76@gmail.com>
