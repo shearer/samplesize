@@ -1,9 +1,11 @@
 Package: samplesize
 Type: Package
 Title: Sample size calculation for various t-Tests and Wilcoxon-Test
-Version: 0.1-8
-Date: 2012-08-22
+Version: 0.2-0
+Date: 2015-06-29
 Author: Ralph Scherer
-Maintainer: Ralph Scherer <scherer.ralph@mh-hannover.de>
+Maintainer: Ralph Scherer <shearer.ra76@gmail.com>
 Description: Computes sample size for Student's t-test and for the Wilcoxon-Mann-Whitney test for categorical data. The t-test function allows paired and unpaired (balanced / unbalanced) designs as well as homogeneous and heterogeneous variances. The Wilcoxon function allows for ties.
 License: GPL (>=2)
+URL: https://github.com/shearer/PropCIs
+BugReports: https://github.com/shearer/PropCIs/issues
