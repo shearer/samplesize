@@ -1,1 +1,5 @@
+importFrom(stats, qt)
+importFrom(stats, qnorm)
+
 exportPattern("^[[:alpha:]]+")
+
