@@ -1,8 +1,8 @@
 Package: samplesize
 Type: Package
 Title: Sample Size Calculation for Various t-Tests and Wilcoxon-Test
-Version: 0.2-1
-Date: 2015-06-29
+Version: 0.2-2
+Date: 2015-06-30
 Author: Ralph Scherer
 Maintainer: Ralph Scherer <shearer.ra76@gmail.com>
 Description: Computes sample size for Student's t-test and for the Wilcoxon-Mann-Whitney test for categorical data. The t-test function allows paired and unpaired (balanced / unbalanced) designs as well as homogeneous and heterogeneous variances. The Wilcoxon function allows for ties.
