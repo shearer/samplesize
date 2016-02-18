@@ -1,5 +1,5 @@
 n.ttest <-
-	function(power = 0.80, alpha = 0.05, mean.diff = 0.80, sd1 = 0.83, sd2 = 2.65, k = 1, design = "unpaired", fraction = "balanced", variance = "equal")
+	function(power = 0.80, alpha = 0.05, mean.diff, sd1, sd2, k = 1, design = "unpaired", fraction = "balanced", variance = "equal")
 	{
 		if(fraction == "unbalanced" & k == 1){
 			warning("Groups are chosen unbalanced, but fraction argument k is 1")
