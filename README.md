@@ -1,5 +1,6 @@
 samplesize
 =================
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/samplesize)](http://cran.r-project.org/package=samplesize/) ![downloads](http://cranlogs.r-pkg.org/badges/grand-total/samplesize)
 
 ## Development
 
