@@ -9,7 +9,7 @@
   are allowed.
 }
 \usage{
-n.ttest(power = 0.8, alpha = 0.05, mean.diff = 0.8, sd1 = 0.83, sd2 = 2.65, 
+n.ttest(power = 0.8, alpha = 0.05, mean.diff = 0.8, sd1 = 0.83, sd2 = sd1,
         k = 1, design = "unpaired", fraction = "balanced", variance = "equal")
 }
 \arguments{
@@ -58,6 +58,6 @@ design = "unpaired", fraction = "balanced", variance = "equal")
 
 n.ttest(power = 0.8, alpha = 0.05, mean.diff = 0.80, sd1 = 0.83, sd2 =
 2.65, k = 0.7, design = "unpaired", fraction = "unbalanced", variance =
-"equal")
+"unequal")
 }
 \keyword{ htest }
