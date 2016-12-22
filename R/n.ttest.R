@@ -1,5 +1,5 @@
 n.ttest <-
-	function(power = 0.80, alpha = 0.05, mean.diff, sd1, sd2, k = 1, design = "unpaired", fraction = "balanced", variance = "equal")
+	function(power = 0.80, alpha = 0.05, mean.diff = 0.8, sd1 = 0.83, sd2 = sd1, k = 1, design = "unpaired", fraction = "balanced", variance = "equal")
 	{
 		if(variance == "equal" & sd1 != sd2){
 			warning("Variance is set to equal, but sd's are different. This makes no sense!")
