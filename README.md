@@ -7,6 +7,5 @@ samplesize
 To install the development version of the samplesize package, it is easiest to use the [devtools](https://cran.r-project.org/package=devtools) package:
 
     install.packages("devtools")  # if needed..
-    library(devtools)
-    install_github("shearer/samplesize")
+    devtools::install_github("shearer/samplesize")
     library(samplesize)
