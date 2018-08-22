@@ -8,5 +8,5 @@ To install the development version of the samplesize package, it is easiest to u
 
     install.packages("devtools")  # if needed..
     library(devtools)
-    install_github("samplesize", "shearer")
+    install_github("shearer/samplesize")
     library(samplesize)
